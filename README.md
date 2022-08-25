@@ -1,3 +1,3 @@
 # Ploy-Inter
 
-## some explanation about interfaces and polymorphism 
+## some examples about interfaces and polymorphism 
